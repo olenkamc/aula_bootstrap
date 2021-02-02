@@ -2,24 +2,35 @@ body{
     font: 20px;
 }
 .navbar{
-    background-color: #81F7D8;
+    background-color: #0090C8;
 }
 
 .que-somos{
-    background-color: #8181f7;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 .margin{
-    padding-bottom: 50px;
+    padding-bottom: 30px;
     padding-top: 10px;
 }
 
 .socios{
-    background-color: #58FAFA;
-    color: white;
+    background-color: #0090C8;
+    color: black;
+    
 }
 .bg-footer{
     background-color: black;
     color: white;
+}
+.space{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.nav-link{
+    margin-top: 47px;
+    font-size: 15px;
 }
